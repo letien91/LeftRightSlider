@@ -1,1 +1,3 @@
 # LeftRightSlider
+
+![screenshot](lro.gif)
